@@ -1,0 +1,8 @@
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = Domination
+OUTPUT_DIRECTORY       = doc
+OUTPUT_LANGUAGE        = English
+OPTIMIZE_OUTPUT_FOR_C  = YES
+INPUT                  = src
+FILE_PATTERNS          = *.h *.c
+GENERATE_LATEX         = NO
