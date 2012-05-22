@@ -1,3 +1,8 @@
+/**
+ * \file main.c
+ * \brief Main entry point to world domination
+ */
+
 #include "stdio.h"
 
 // World domination program
